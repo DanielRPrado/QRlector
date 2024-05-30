@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "416991842463",
+    "firebase_url": "https://peliculas-754a2-default-rtdb.firebaseio.com",
+    "project_id": "peliculas-754a2",
+    "storage_bucket": "peliculas-754a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416991842463:android:0678c90f0f4b3f793052aa",
+        "android_client_info": {
+          "package_name": "com.example.peliculas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWO9w5mXJvfv4pCYJZOpTwmwc3RKAXlg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416991842463:android:fd10e7a6731c88ee3052aa",
+        "android_client_info": {
+          "package_name": "com.example.proyectofinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWO9w5mXJvfv4pCYJZOpTwmwc3RKAXlg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
